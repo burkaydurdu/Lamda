@@ -17,11 +17,19 @@ public class Frame extends JFrame {
     @Override
     public void paint(Graphics g) {
         super.paint(g);
+        float rectangle_a = Area(100, 50, new Transactions() {
+            @Override
+            public float AreaProc(float edge1, float edge2) {
+                return edge1 * edge2;
+            }
+        });
         float square_a = Area(40,40,(edge1, edge2) -> edge1 * edge2 );
         float sphere_a = Area(50,50,((edge1, edge2) -> (float)(4 * Math.PI *Math.pow(25,2))));
         g.fillOval(10,10,50,50);
         g.drawRect(100,10,40,40);
+        g.drawRect(160,10,100,50);
         g.drawString(String.valueOf(sphere_a),10,80);
         g.drawString(String.valueOf(square_a),100,80);
+        g.drawString(String.valueOf(rectangle_a),160,80);
     }
 }
