@@ -52,8 +52,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="275">
-                <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+              <first_editor relative-caret-position="432">
+                <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -592,12 +592,20 @@
       <option name="presentableId" value="Default" />
       <updated>1491521946566</updated>
       <workItem from="1491521952780" duration="3414000" />
-      <workItem from="1491610719446" duration="1539000" />
+      <workItem from="1491610719446" duration="1774000" />
     </task>
+    <task id="LOCAL-00001" summary="Readme update&#10;">
+      <created>1491612278725</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1491612278725</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4953000" />
+    <option name="totallyTimeSpent" value="5188000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1665" y="24" width="1375" height="876" extended-state="6" />
@@ -639,6 +647,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Readme update&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Readme update&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -729,8 +741,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="275">
-            <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="47" selection-end-line="17" selection-end-column="47" />
+          <first_editor relative-caret-position="432">
+            <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
             <folding />
           </first_editor>
           <second_editor />

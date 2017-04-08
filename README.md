@@ -16,10 +16,10 @@ işte tamda burada ``Lamda`` işin içine giriyor. Lamda olmadan tanımlarsak:
 
 ```
  float rectangle_a = Area(100, 50, new Transactions() {
-            @Override
-            public float AreaProc(float edge1, float edge2) {
-                return edge1 * edge2;
-            }
+      @Override
+      public float AreaProc(float edge1, float edge2) {
+           return edge1 * edge2;
+      }
  });
 ```
 
